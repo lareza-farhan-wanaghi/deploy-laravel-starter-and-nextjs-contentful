@@ -494,7 +494,7 @@ To install Docker Engine 20.10.15, follow these steps:
 
    <img src="_resources/Screenshot%202023-08-11%20at%2017.20.01.webp" width="75%"/>
 
-4. After populating some data, your Contentful dashboard should look like this.
+4. After populating some data, your Contentful dashboard should look similar to this.
 
    <img src="_resources/Screenshot%202023-08-11%20at%2017.21.27.webp" width="75%"/>
 
