@@ -1,4 +1,5 @@
- # DOT DevOps Internship Challenge - Lareza Farhan Wanaghi
+ # Deploying Laravel-Starter and NextJS-Contentful
+
 
  ## Objectives
 
