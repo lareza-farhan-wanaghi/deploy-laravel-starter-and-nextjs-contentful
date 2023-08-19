@@ -36,8 +36,8 @@
 ## Resolution Steps
 - Step 1 - Setting up the Server
 - Step 2 - Setting up the Server Environment
-- Step 3 - Deploying the PHP Application
-- Step 4 - Testing the PHP Application
+- Step 3 - Deploying the Laravel Application
+- Step 4 - Testing the Laravel Application
 - Step 5 - Deploying the Next.js App
 - Step 6 - Testing the Next.js App
 
@@ -125,14 +125,14 @@ sudo systemctl enable mariadb
 sudo mariadb-secure-installation
 ```
 
-### Step 3 - Deploying the PHP Application
+### Step 3 - Deploying the Laravel Application
 
 **3.1 Configure Mailtrap**
 1. Register on Mailtrap and access the Dashboard.
 
    <img src="_resources/Screenshot%202023-08-11%20at%2015.22.11.webp" width="75%"/>
 
-2. Create an Inbox and obtain the credentials for use in the PHP app later.
+2. Create an Inbox and obtain the credentials for use in the Laravel app later.
 
    <img src="_resources/Screenshot%202023-08-11%20at%2015.24.38.webp" width="75%"/>
 
@@ -151,8 +151,8 @@ sudo mariadb-secure-installation
    EXIT;
    ```
 
-**3.3 Setup the PHP Application**
-1. Clone the PHP app repository and install Composer dependencies:
+**3.3 Setup the Laravel Application**
+1. Clone the Laravel app repository and install Composer dependencies:
    ```
    cd /var/www/html
    sudo git clone https://github.com/nasirkhan/laravel-starter.git
@@ -234,7 +234,7 @@ sudo mariadb-secure-installation
    sudo systemctl restart nginx
    ```
 
-### Step 4 - Testing the PHP Application
+### Step 4 - Testing the Laravel Application
 
 **4.1 Verify Page Functionality**
 1. Visit the homepage:
