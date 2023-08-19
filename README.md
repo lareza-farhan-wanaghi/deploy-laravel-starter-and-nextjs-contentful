@@ -1,4 +1,4 @@
- # Deploying Laravel-Starter & Contentful-NextJS Apps to a VM
+ # Deploying Laravel & NextJS Apps to a VM
 
 
  ## Objectives
