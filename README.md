@@ -8,7 +8,7 @@
    - 1 vCPU
    - 20GB HDD
 
-2. Establish a web server environment meeting these requirements:
+2. Establish a web server environment with these applications installed:
    - Nginx
    - PHP 8.1
    - MariaDB 10.6
