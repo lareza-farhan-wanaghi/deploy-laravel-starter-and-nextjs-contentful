@@ -1,7 +1,7 @@
  # Deploying Laravel & NextJS Apps to a VM
 
 
- ## Objectives
+ ## Objective
 
 1. Create a virtual machine on a laptop with the following specifications:
    - 2 GB RAM
@@ -33,13 +33,7 @@
 
 9. Verify that the application showcases a variety of sample posts.
 
-## Resolution Steps
-- Step 1 - Setting up the Server
-- Step 2 - Setting up the Server Environment
-- Step 3 - Deploying the Laravel Application
-- Step 4 - Testing the Laravel Application
-- Step 5 - Deploying the Next.js App
-- Step 6 - Testing the Next.js App
+## Solution
 
 ### Step 1 - Setting up the Server
 
