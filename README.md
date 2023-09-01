@@ -1,7 +1,7 @@
  # Deploying Laravel & NextJS Apps to a VM
 
 
- ## Objective
+ ## Problem Statement
 
 1. Create a virtual machine on a laptop with the following specifications:
    - 2 GB RAM
